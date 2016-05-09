@@ -1,0 +1,65 @@
+.container-fluid {
+	background: url(swirl_pattern.png) ; 
+}
+
+.nav a {
+	color: #c8c8c8;
+	background-color: white; 
+}
+
+.header {
+	border-bottom: 2px solid #c8c8c8;
+	color: #c8c8c8;
+	background-color: white;
+}
+
+.content {
+	padding-top:20px; 
+	padding-bottom: 20px;
+}
+
+.myfooter {
+	color: white;
+	background-color:#4aaaa5; 
+	border: none;
+	height: 30px;
+	font-size: 10px;
+}
+
+
+.headtext {
+	font-family: 'Poiret One', cursive;
+}
+
+.bodytext {
+	font-family: 'Roboto', sans-serif;
+}
+
+.communication{
+	background-color: white; 
+	border: 1px solid #c8c8c8;
+}
+
+img{
+	filter: saturate(30%);
+}
+
+.myname {
+	background-color:#4aaaa5; 
+	color: white;
+}
+
+.contenttext {
+	background-color:white; 
+	border: 1px solid #c8c8c8;
+}
+
+.links {
+	background-color: white;
+}
+
+
+.blank {
+	height: 100px; 
+	background-color: white;
+}
