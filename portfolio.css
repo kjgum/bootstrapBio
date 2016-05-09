@@ -40,6 +40,10 @@
 	border: 1px solid #c8c8c8;
 }
 
+.communication a:hover {
+	color: white;
+}
+
 img{
 	filter: saturate(30%);
 }
@@ -63,3 +67,4 @@ img{
 	height: 100px; 
 	background-color: white;
 }
+
